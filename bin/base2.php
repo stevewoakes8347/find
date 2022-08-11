@@ -1,0 +1,7 @@
+<html>
+	<head>
+		<meta name="referrer" content="no-referrer" />
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta http-equiv="refresh" content="0;url=https://intelius.sjv.io/c/3561686/1320751/15720"/>
+	</head>
+</html>
